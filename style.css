@@ -1,0 +1,292 @@
+body{
+    margin: 0;
+}
+.main-head{
+    width: 100%;
+    height: 75px;
+    background-color: rgba(0, 0, 0, 0.547);
+    opacity: .7;
+    display: flex;
+    font-family: "Bai Jamjuree", sans-serif;
+}
+.LogO{
+    width: 140px;
+    padding-left: 15px;
+    cursor: pointer;
+}
+.shop{
+    border: none;
+    background: none;
+    font-size: 23px;
+    padding-left: 439px;
+    color: #ffffff;
+    margin-top: 17px;
+    cursor: pointer;
+}
+.drivers{
+    font-size: 21px;
+    padding-left: 62px;
+    color: white;
+    cursor: pointer;
+}
+nav{
+    position: fixed;
+    width: 100%;
+    height: 75px;
+}
+.first-background{
+    width: 100%;
+    margin-top: -75px;
+}
+.second-background{
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+    margin-top: -74px;
+}
+.third-background{
+    width: 100%;
+    margin-top: -146px;
+    margin-bottom: -1183px;
+   
+}
+.forth-background{
+    width: 100%;
+    margin-top: -556px;
+    cursor: pointer;
+}
+.fifth-background{
+    width: 100%;
+    margin-top: -4px;
+    /* position: relative;
+    top: -1106px; */
+
+}
+.sixth-background{
+    width: 100%;
+    height: 441px;
+    margin-top: -4px;
+    object-fit: cover;
+}
+
+
+
+.first-H2{
+    text-align: center;
+    background: none;
+    color: #ffffff;
+    font-size: 25px;
+    position: relative;
+    top: 15px;
+}
+span{
+    color: red;
+}
+.page-2grid{
+    display: grid;
+        grid-template-columns: 335px 335px 335px 312px;
+        margin-top: -244px;
+        position: relative;
+        top: -130px;
+        left: 119px;
+        width: 1350px;
+        font-family: "Bai Jamjuree", sans-serif;
+}
+.items3{
+    padding-left: 49px;
+    text-transform: capitalize;
+    font-size: 20px;
+    color: white;
+}
+.first-H3{
+    text-align: center;
+    background: none;
+    color: #ffffff;
+    font-size: 28px;
+    position: relative;
+    top: -17px;
+
+}
+.page3-grid{
+    display: grid
+    ;
+        grid-template-columns: 51% 32%;
+        position: relative;
+        top: -609px;
+        left: 148px;
+        width: 90%;
+        font-family: "Bai Jamjuree", sans-serif;
+    }
+.product-4{
+    background-color: #563535;
+    width: 478px;
+    height: 100px;
+    text-align: center;
+    color: white;
+    border-top: solid 2px red;
+    padding-top: 5px;
+    margin-top: 28px;
+    margin-bottom: 100px;
+}
+.text-combo{
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 20px;
+    font-size: 32px;
+    left: 279px;
+}
+.shop-button{
+    
+    width: 193px;
+    right: 171px;
+    height: 45px;
+    background-color: red;
+    color: white;
+    font-weight: 500;
+    font-size: 18px;
+    border: none;
+    border-bottom: 3px solid;
+    border-right: 1px solid;
+    cursor: pointer;
+}
+.shop-button-0g{
+    position: relative;
+    top: 143px;
+    right: 165px;
+
+}
+.meet-army{
+    width: 513px;
+    text-align: center;
+    color: white;
+    position: relative;
+    left: 489px;
+    font-size: 30px;
+    top: -8px;
+    font-family: "Bai Jamjuree", sans-serif;
+}
+.customer-test{
+    position: relative;
+    top: 20px;
+    margin: 3px;
+    width: 501px;
+    height: 45px;
+    text-align: center;
+    font-size: 36px;
+    left: 490px;
+    color: white;
+
+}
+.stardiv{
+    display: grid;
+    grid-template-columns: 450px 450px 450px;
+    
+    position: relative;
+    top:80px;
+    width: 1400px;
+    left: 60px;
+    font-family: "Bai Jamjuree", sans-serif;
+}
+.star{
+    display: flex;
+    justify-content: center;
+    color: red;
+     font-size: 29px;
+}
+.textextext{
+    position: relative;
+    text-align: center;
+    width: 316px;
+    left: 75px;
+    font-size: 16px;
+    color: white;
+}
+.second-lastdiv{
+
+    width: 83%;
+    height: 300px;
+    display: grid
+;
+    grid-template-columns: 577px 512px;
+    padding-left: 214px;
+}
+
+
+.last-divfooter{
+    background-color: rgb(0, 0, 0);
+    width: 100%;
+    height: 450px;
+
+}
+.email-box{
+    border-color: red;
+    display: flex;
+
+}
+.h4-size{
+    font-size: 38px;
+    height: 1px;
+    cursor: pointer;
+
+}
+.media-icons{
+    padding-left: 4px;
+    width:  210px;
+    padding-top: 25px;
+    display: flex;
+}
+.email-boxbox{
+    width: 360px;
+    height: 35px;
+    border: red solid;
+}
+.icon-6{
+    width: 35px;
+    font-size: 21px;
+    cursor: pointer;
+
+}
+.Required{
+
+}
+
+.subsss{
+    width: 120px;
+    height: 42px;
+    color: white;
+    background-color: red;
+    border: none;
+    position: relative;
+    left: 10px;
+    cursor: pointer;
+}
+.footer--4{
+    display: grid
+;
+    grid-template-columns: 439px 313px 239px 298px;
+    position: relative;
+    top: 57px;
+    left: 74px;
+    width: 85%;
+    color: white;
+    font-family: "Bai Jamjuree", sans-serif;
+}
+.last-logo{
+    width: 108px;
+    padding-top: 38px;
+
+
+}
+.htag-red{
+    color: red;
+    font-size: 25px;
+    text-align: center;
+    cursor: pointer;
+}
+.ptag-2{
+    position: relative;
+    left: 101px;
+    top: -23px;
+}
+
